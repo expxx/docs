@@ -24,12 +24,7 @@
     "name": "Client Area",
     "url": "https://billing.createnow.gg"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
+  "tabs": [],
   "anchors": [
     {
       "name": "Community",
