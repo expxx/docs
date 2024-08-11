@@ -45,14 +45,12 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Policies",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "policies/fairuse",
+        "policies/refund",
+        "policies/privacy",
+        "policies/terms"
       ]
     }
   ],
