@@ -17,7 +17,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:help@createnow.gg"
+      "url": "https://billing.createnow.gg/submitticket.php"
     }
   ],
   "topbarCtaButton": {
