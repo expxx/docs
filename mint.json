@@ -45,15 +45,6 @@
       ]
     },
     {
-      "group": "Policies",
-      "pages": [
-        "policies/fairuse",
-        "policies/refund",
-        "policies/privacy",
-        "policies/terms"
-      ]
-    },
-    {
       "group": "Guides",
       "pages": [
         {
@@ -63,6 +54,15 @@
             "guides/vps-panel/rebuild"
           ]
         }
+      ]
+    },
+    {
+      "group": "Policies",
+      "pages": [
+        "policies/fairuse",
+        "policies/refund",
+        "policies/privacy",
+        "policies/terms"
       ]
     }
   ],
