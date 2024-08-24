@@ -52,6 +52,18 @@
         "policies/privacy",
         "policies/terms"
       ]
+    },
+    {
+      "group": "Guides",
+      "pages": [
+        {
+          "group": "VPS Panel",
+          "pages": [
+            "guides/vps-panel/launching",
+            "guides/vps-panel/rebuild"
+          ]
+        }
+      ]
     }
   ],
   "footerSocials": {
